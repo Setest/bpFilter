@@ -89,7 +89,7 @@ You'll need to install:
 
 ## Authors
 
- * [Prishepenko Stepan](mailto:itman116@gmail.com?subject=[GitHub]app bp filter)
+ * [Prishepenko Stepan](mailto:itman116@gmail.com)
 
 ## License
 
