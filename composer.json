@@ -1,0 +1,14 @@
+{
+    "name": "setest/bp-filter",
+    "authors": [
+        {
+            "name": "Setest",
+            "email": "itman116@gmail.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+        "BpFilter\\": "src/"
+      }
+    }
+}
